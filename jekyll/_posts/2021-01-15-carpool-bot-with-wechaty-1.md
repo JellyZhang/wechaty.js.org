@@ -132,7 +132,7 @@ image: /assets/2021/01-carpool-bot-with-wechaty-1/4.jpeg
 
 - 用户进行「加入群聊」后，Bot将用户拉入群聊（bot视角）：
 
-  ![Pic-1](/assets/2021/01-carpool-bot-with-wechaty-1/3.jpg)
+  ![Pic-1](/assets/2021/01-carpool-bot-with-wechaty-1/3.png)
 
 ### 项目相关
 
